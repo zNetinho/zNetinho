@@ -1,5 +1,5 @@
 ### Ola! A galera me chama de Neto, bem vindo ao meu github 👋
-<div class="container-fluid" style="display: flex">
+<div class="container-fluid" style="display: block">
             <div class="col-6">
                  <div class="status" style="display:flex">
                    <img src="https://github-readme-stats.vercel.app/api?username=zNetinho&show_icons=true&theme=tokyonight">
