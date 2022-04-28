@@ -1,7 +1,7 @@
 ### Ola! A galera me chama de Neto, bem vindo ao meu github 👋
 <div>
-            <div class="col-6">
-                 <div class="status" style="display:flex">
+            <div class="col-6" style="display:flex">
+                 <div class="status">
                    <img src="https://github-readme-stats.vercel.app/api?username=zNetinho&show_icons=true&theme=tokyonight">
                    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karanalpe&layout=compact&theme=tokyonight">
                  </div>
