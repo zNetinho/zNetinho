@@ -1,19 +1,11 @@
 ### Ola! A galera me chama de Neto, bem vindo ao meu github 👋
 <div>
-            <div class="col-12" style="display:flex; flex-direction:column">
+             <div class="col-12" style="display:flex; flex-direction:column">
                  <div class="status">
-                             <div class="status-01">
-                                        <img src="https://github-readme-stats.vercel.app/api?username=zNetinho&show_icons=true&theme=tokyonight"> 
-                             </div>
-                   
-                             <div class="status-02">
-                                        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karanalpe&layout=compact&theme=tokyonight">
-                             </div>
-                   
+                          <img src="https://github-readme-stats.vercel.app/api?username=zNetinho&show_icons=true&theme=tokyonight"> 
+                          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karanalpe&layout=compact&theme=tokyonight">
                  </div>
-            </div>
-            <div>
-            </div>                                                                                                         
+            </div>                                                                                                       
             <div>
               <h3>Skills</h3>
                <img src="https://icongr.am/devicon/java-original.svg?size=70&color=currentColor">
