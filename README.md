@@ -3,7 +3,7 @@
              <div class="col-12" style="display:flex; flex-direction:column">
                  <div class="status">
                           <img src="https://github-readme-stats.vercel.app/api?username=zNetinho&show_icons=true&theme=tokyonight"> 
-                          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karanalpe&layout=compact&theme=tokyonight">
+                          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zNetinho&layout=compact&theme=tokyonight">
                  </div>
             </div>                                                                                                       
             <div>
