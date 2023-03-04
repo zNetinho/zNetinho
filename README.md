@@ -8,11 +8,12 @@
             </div>                                                                                                       
             <div>
               <h3>Skills</h3>
-               <img src="https://icongr.am/devicon/java-original.svg?size=70&color=currentColor">
                <img src="https://icongr.am/devicon/javascript-original.svg?size=70&color=currentColor">
+               <img src="https://icongr.am/devicon/typescript-original.svg?size=70&color=currentColor">
                <img src="https://icongr.am/devicon/html5-original-wordmark.svg?size=70&color=currentColor">
                <img src="https://icongr.am/devicon/css3-original-wordmark.svg?size=70&color=currentColor">
-               <img src="https://icongr.am/devicon/typescript-original.svg?size=70&color=currentColor">
+               <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_plain_wordmark_logo_icon_146423.png" style="height:70px; widht:70px">
+               <img src="https://icongr.am/devicon/java-original.svg?size=70&color=currentColor">
                <img src="https://icongr.am/devicon/angularjs-original.svg?size=70&color=currentColor">
             </div>
             <div class="ides">
