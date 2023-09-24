@@ -1,4 +1,9 @@
 ### Ola! A galera me chama de Neto, bem vindo ao meu github 👋
+
+<p>
+  Estudande de ADS, analista de SEO tecnico e desenvolvedor em formação, atualmente venho trabalhando com projetos WEB, com React e Next.js, usando banco de dados como o MongoDB, consigo criar aplicações completa, desde a interface até a API para ser utilizada.<br/>
+</p>
+
 <div>
              <div class="col-12" style="display:flex; flex-direction:column">
                  <div class="status">
@@ -7,18 +12,29 @@
                  </div>
             </div>                                                                                                       
             <div>
-              <h3>Skills</h3>
-               <img src="https://icongr.am/devicon/javascript-original.svg?size=70&color=currentColor">
-               <img src="https://icongr.am/devicon/typescript-original.svg?size=70&color=currentColor">
-               <img src="https://icongr.am/devicon/html5-original-wordmark.svg?size=70&color=currentColor">
-               <img src="https://icongr.am/devicon/css3-original-wordmark.svg?size=70&color=currentColor">
-               <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_plain_wordmark_logo_icon_146423.png" style="height:70px; widht:70px">
-               <img src="https://icongr.am/devicon/java-original.svg?size=70&color=currentColor">
-               <img src="https://icongr.am/devicon/angularjs-original.svg?size=70&color=currentColor">
+              <h3>Languages</h3>
+               <img src="https://skillicons.dev/icons?i=javascript" style="height:70px; widht:70px">
+               <img src="https://skillicons.dev/icons?i=typescript" style="height:70px; widht:70px">
+               <img src="https://skillicons.dev/icons?i=html" style="height:70px; widht:70px">
+               <img src="https://skillicons.dev/icons?i=css" style="height:70px; widht:70px">
+               <img src="https://skillicons.dev/icons?i=java" style="height:70px; widht:70px">
+            </div>
+            <div>
+              <h3>Databases</h3>
+              <img src="https://skillicons.dev/icons?i=mongodb" style="height:70px; widht:70px">
+              <img src="https://skillicons.dev/icons?i=postgresql" style="height:70px; widht:70px">
+              <img src="https://skillicons.dev/icons?i=mysql" style="height:70px; widht:70px">
+            </div>
+            <div>
+            <h3>Frameworks</h3>
+              <img src="https://skillicons.dev/icons?i=react" style="height:70px; widht:70px">
+              <img src="https://skillicons.dev/icons?i=nextjs" style="height:70px; widht:70px">
+              <img src="https://skillicons.dev/icons?i=tailwind" style="height:70px; widht:70px">
             </div>
             <div class="ides">
               <h3>IDE's</h3>
-              <img src="https://icongr.am/devicon/visualstudio-plain.svg?size=70&color=currentColor">
+              <img src="https://skillicons.dev/icons?i=eclipse">
+              <img src="https://skillicons.dev/icons?i=vscode">
             </div>
             <div>
               <h3>Contato</h3>
