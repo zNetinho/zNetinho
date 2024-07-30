@@ -1,47 +1,67 @@
-### Ola! A galera me chama de Neto, bem vindo ao meu github 👋
+<h2 align="left">Olá👋! Eu sou o Neto, desenvolvedor Full-stack</h2>
 
-<p>
-  Estudande de ADS, analista de SEO tecnico e desenvolvedor em formação, atualmente venho trabalhando com projetos WEB, com React e Next.js, usando banco de dados como o MongoDB, consigo criar aplicações completa, desde a interface até a API para ser utilizada.<br/>
-</p>
+###
 
-<div>
-             <div class="col-12" style="display:flex; flex-direction:column">
-                 <div class="status">
-                          <img src="https://github-readme-stats.vercel.app/api?username=zNetinho&show_icons=true&theme=tokyonight"> 
-                          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zNetinho&layout=compact&theme=tokyonight">
-                 </div>
-            </div>                                                                                                       
-            <div>
-              <h3>Languages</h3>
-               <img src="https://skillicons.dev/icons?i=javascript" style="height:70px; widht:70px">
-               <img src="https://skillicons.dev/icons?i=typescript" style="height:70px; widht:70px">
-               <img src="https://skillicons.dev/icons?i=html" style="height:70px; widht:70px">
-               <img src="https://skillicons.dev/icons?i=css" style="height:70px; widht:70px">
-               <img src="https://skillicons.dev/icons?i=java" style="height:70px; widht:70px">
-            </div>
-            <div>
-              <h3>Databases</h3>
-              <img src="https://skillicons.dev/icons?i=mongodb" style="height:70px; widht:70px">
-              <img src="https://skillicons.dev/icons?i=postgresql" style="height:70px; widht:70px">
-              <img src="https://skillicons.dev/icons?i=mysql" style="height:70px; widht:70px">
-            </div>
-            <div>
-            <h3>Frameworks</h3>
-              <img src="https://skillicons.dev/icons?i=react" style="height:70px; widht:70px">
-              <img src="https://skillicons.dev/icons?i=nextjs" style="height:70px; widht:70px">
-              <img src="https://skillicons.dev/icons?i=tailwind" style="height:70px; widht:70px">
-            </div>
-            <div class="ides">
-              <h3>IDE's</h3>
-              <img src="https://skillicons.dev/icons?i=eclipse">
-              <img src="https://skillicons.dev/icons?i=vscode">
-            </div>
-            <div>
-              <h3>Contato</h3>
-              <a href="https://www.linkedin.com/in/antonio-flavio-615166231/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-              <a style="widht: 20px" href="mailto:netoflavio97@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
-            </div>
-            <div>
-              <h3>System</h3>
-              <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-            </div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zNetinho&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zNetinho&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="sass logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="30" alt="redis logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/zNetinho/zNetinho/output/snake.svg" alt="Snake animation" />
+
+###
+
+<p align="left">Sejam bem-vindos ao meu Github, aproveite e confira meus projetos recentes, e se você desejar estou disposto a aceitar conselhos.<br><br>Atualmente trabalho mais com desenvolvimento web, mas também crio automações com python para facilitar o dia a dia.<br><br>Tenho bastante conhecimento de desenvolvimento web, backend e também em nuvem, principalmente da AWS, e venho me dedicando a aprender sempre mais.</p>
+
+###
